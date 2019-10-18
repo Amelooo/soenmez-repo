@@ -1,0 +1,53 @@
+#ticker ul.tweet_list {
+    min-height: 80px;
+    height:120px;
+    overflow-y:hidden;
+}
+#ticker .tweet_list li {
+    min-height: 80px;
+    height:120px;
+}
+#colorbox {
+    min-height: 1300px !important;
+}
+#cboxTitle {
+    height: 30px !important;
+    position: absolute !important;
+    padding: 0px !important;
+}
+#cboxClose {
+    position: absolute !important;
+    margin-top: 15px !important;
+    right: 0px !important
+}
+#cboxClose:hover {
+    background: #777 url(../../images/close.png) no-repeat center center
+}
+#cboxContent {
+    padding-top: 37px !important;
+}
+
+div.footerL {
+
+    text-align: center;
+}
+
+.footerL a {
+    color: #fff !important;
+    font-family: "Roboto_R";
+    opacity: 0.3;
+}
+.dataProtectionInnerContent {
+    margin: 10px 20px 0px 25px;
+}
+
+.left-policy {
+    margin: 10px 20px 0px 25px;
+}
+.c-intro {
+    text-align: left !important;
+}
+
+.intro h2 {
+    text-align: center !important;
+}
